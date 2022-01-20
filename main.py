@@ -1,4 +1,4 @@
-import sys
+import sys,os
 from datetime import datetime
 import core.cv as cv
 import core.bx as bx
@@ -33,6 +33,9 @@ tx_as = ["tx","t","天蝎","天"]
 gsl_as = ["god","gsl","gls","gl","g","哥斯拉","Godzilla","godzilla"]
 default_manage = "bx" #shell管理工具,默认bx，可以修改
 
+logfolder = "log"
+if os.path.exists(logfolder) == False:  # 判断文件夹是否存在
+    os.mkdir(logfolder)
 try :
     logo()
     if len(sys.argv) == 2 and sys.argv[1] in shell_type:
