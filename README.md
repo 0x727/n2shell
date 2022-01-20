@@ -1,17 +1,17 @@
 
 ![logo](./doc/images/logo.png)
 
-# 仓库名称
+# n2shell
 
  [中文简体](./README_zh.md)
 
-| Category | instruction |
+| 类别 | 说明 |
 | ---- | --- |
-| Author | [1amfine2333](https://github.com/1amfine2333) |
-| Team | [0x727](https://github.com/0x727) 未来一段时间将陆续开源工具 |
-| Position | 解决下意识使用默认密码webshell的问题 |
-| Language | Python |
-| Function | 生成随机密码的webshell |
+| 作者 | [1amfine2333](https://github.com/1amfine2333) |
+| 团队 | [0x727](https://github.com/0x727) 未来一段时间将陆续开源工具 |
+| 定位 | 解决下意识使用默认密码webshell的问题 |
+| 语言 | Python |
+| 功能 | 生成随机密码的webshell |
 
 
 ## 项目说明
