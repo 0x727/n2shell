@@ -8,7 +8,7 @@
 | Category | instruction |
 | ---- | --- |
 | Author | [1amfine2333](https://github.com/1amfine2333) |
-| Team | [0x727](https://github.com/0x727) Open source tools will continue for some time to come |
+| Team | [0x727](https://github.com/0x727) 未来一段时间将陆续开源工具 |
 | Position | 解决下意识使用默认密码webshell的问题 |
 | Language | Python |
 | Function | 生成随机密码的webshell |
@@ -20,7 +20,7 @@
 
 ## 什么是 n2shell ?
 
-这里是第一段介绍，从当前项目的背景切入
+解决重复使用默认密码webshell的问题，快速生成所需要的websehll
 
 ##  n2shell 的原理?
 
@@ -30,9 +30,8 @@
 
 ## 快速开始体验
 
-### 1. Git下载安装
+### 1. Git下载
 
-如何做，需要什么环境
 ```bash
 $ git clone https://github.com/0x727/n2shell.git
 ```
